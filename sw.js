@@ -10,7 +10,7 @@ let filesToCache = ["/",
     "/js/fs-place-objects.js",
     "/js/helpers.js",
     "manifest.json",
-    "/public/textures/waternormals.jpg",
+    "public/textures/waternormals.jpg",
     "/images/aviao.png",
     "/images/pwa-icon-256.png",
     "/public/threejs/three.js",
@@ -18,7 +18,7 @@ let filesToCache = ["/",
     "/public/threejs/extra-utils/objects/Water.js",
     "/public/threejs/extra-utils/objects/Sky.js",
     "/public/threejs/extra-utils/libs/stats.min.js",
-    "/public/textures/waternormals.jpg",
+    "public/textures/waternormals.jpg",
     "/public/glb/low-poly_airplane.glb-low"
 ];
 
