@@ -77,7 +77,7 @@ async function initOceanAndSky() {
         {
             textureWidth: 512,
             textureHeight: 512,
-            waterNormals: new THREE.TextureLoader().load('/public/textures/agua.jpg', function (texture) { texture.wrapS = texture.wrapT = THREE.RepeatWrapping; }),
+            waterNormals: new THREE.TextureLoader().load('./textures/agua.jpg', function (texture) { texture.wrapS = texture.wrapT = THREE.RepeatWrapping; }),
             sunDirection: new THREE.Vector3(),
             sunColor: 0xffffff,
             waterColor: 0x001e0f,
